@@ -1,6 +1,6 @@
 # Welcome to the home of Interior Family Studios
 
-##About us
+## About us
 
 I am an independent developer working on a few projects which are listed here. 
 
